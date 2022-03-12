@@ -1,3 +1,1 @@
-# ellipticaldao.github.io
-
-This is the public website of the Elliptical DAO.
+## This is the public website of the Elliptical DAO.

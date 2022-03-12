@@ -1,0 +1,19 @@
+- name: GitHub
+  url: http://github.com/ellipticaldao
+  class: icon-github
+  title: Code, website, documentation, and more
+
+- name: Twitter
+  url: http://twitter.com/ellipticaldao
+  class: icon-twitter
+  title: "The Elliptical DAO Official Twitter Account"
+
+# - name: Facebook
+#   url: http://www.facebook.com/
+#   class: icon-facebook
+#   title: ""
+
+# - name: Instagram
+#   url: http://instagram.com/
+#   class: icon-instagram
+#   title: ""

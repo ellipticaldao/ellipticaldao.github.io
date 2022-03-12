@@ -1,0 +1,16 @@
+- menu_name: "Join"
+
+- name: "Discord"
+  url: "https://discord.gg/mawjTfGsYS"
+  class: "sitemap-link"
+  title: "Discord"
+
+- name: "Forum"
+  url: "https://metaforo.io/g/ellipticaldao"
+  class: "sitemap-link"
+  title: "Forum"
+
+- name: "Twitter"
+  url: "https://twitter.com/ellipticaldao"
+  class: "sitemap-link"
+  title: "Twitter"
